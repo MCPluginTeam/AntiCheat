@@ -1,0 +1,5 @@
+name: AntiCheat-MCPluginTeam
+version: 1.0.0BETA
+api: 4.0.0
+main: MCPluginTeam\AntiCheat
+author: MCPluginTeam
